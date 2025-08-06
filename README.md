@@ -1,4 +1,4 @@
-# zb-accordion
+# zb-travel
 
 A travel landing page built with React, TypeScript, and Vite.
 
